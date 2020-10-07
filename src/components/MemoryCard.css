@@ -1,0 +1,21 @@
+.MemoryCardBack {
+    display: inline-block;
+    width: 150px;
+    height: 80px;
+    margin: 3px;
+    border-radius: 5px;
+    border: 3px solid navy;
+    cursor: pointer;
+    background: repeating-linear-gradient(
+        45deg,
+        #334455,
+        #556633 10px,
+        #501950 10px,
+        #990099 20px
+    ) ;
+}
+
+.dcLogo {
+    width: 100%;
+    padding-top: 13px;
+}
